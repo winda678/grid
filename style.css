@@ -1,6 +1,46 @@
 .box{
-    height:200px;
+    margin-top: 30px;
+    height:400px;
 }
+.text1{
+    text-align: center;
+    padding-top: 150px;
+}
+
+.btn{
+    background: purple;
+    color: black;
+    border-radius: 15px;
+    padding: 0px 20px 0px 20px;
+}
+
+.text2{
+    position: absolute;
+    padding-top: 450px;
+    margin-left: 450px;
+}
+
 .box2{
-    height:430px;
+    height: 200px;
+    margin-bottom: 60px;
+    margin-top: 50px;
+    border-radius: 15px;
+}
+
+.box3{
+    height: 250px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+}
+
+.box4{
+    margin-bottom: 0px;
+    height: 50px;
+}
+
+.text3{
+    position: absolute;
+    padding-top: 730px;
+    margin-left: 530px;
+
 }
