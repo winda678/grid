@@ -1,10 +1,13 @@
 .box{
-    margin-top: 30px;
+    margin-top: 10px;
     height:400px;
+    background-color: #025955;
+    color: #ffffff;
 }
 .text1{
     text-align: center;
     padding-top: 150px;
+    color: #ffffff;
 }
 
 .btn{
@@ -15,15 +18,11 @@
 }
 
 .text2{
-    position: absolute;
-    padding-top: 450px;
-    margin-left: 450px;
+    margin-top: 50px;
 }
 
 .box2{
     height: 200px;
-    margin-bottom: 60px;
-    margin-top: 50px;
     border-radius: 15px;
 }
 
@@ -39,8 +38,6 @@
 }
 
 .text3{
-    position: absolute;
-    padding-top: 730px;
-    margin-left: 530px;
+    margin-top: 70px;
 
 }
