@@ -24,12 +24,27 @@
 .box2{
     height: 200px;
     border-radius: 15px;
+    background-image: url(gambar/img3.jpg);
 }
 
 .box3{
+    height: 200px;
+    border-radius: 15px;
+    background-image: url(gambar/img5.jpg);
+}
+
+.box8{
     height: 250px;
     margin-bottom: 10px;
     border-radius: 15px;
+    background-image: url(gambar/img6.jpg);
+}
+
+.box9{
+    height: 250px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+    background-image: url(gambar/img8.jpg);
 }
 
 .box4{
