@@ -1,56 +1,20 @@
+.posisi{
+    margin-left: 740px;   
+}
 .box{
-    margin-top: 10px;
-    height:400px;
-    background-color: #025955;
-    color: #ffffff;
+    height: 200px;
 }
 .text1{
-    text-align: center;
-    padding-top: 150px;
-    color: #ffffff;
+    padding-top: 40px;
+    font-family: 'Courier New', Courier, monospace;
 }
-
-.btn{
-    background: purple;
-    color: black;
-    border-radius: 15px;
-    padding: 0px 20px 0px 20px;
+.box1{
+    justify-content: left;
+    height: 350px;
 }
-
-.text2{
-    margin-top: 50px;
-}
-
 .box2{
-    height: 200px;
-    border-radius: 15px;
-    background-image: url(gambar/img3.jpg);
+    height: 90px;
 }
-
-.box3{
-    height: 200px;
-    border-radius: 15px;
-    background-image: url(gambar/img5.jpg);
-}
-
-.box8{
-    height: 250px;
-    margin-bottom: 10px;
-    border-radius: 15px;
-    background-image: url(gambar/img6.jpg);
-}
-
-.box9{
-    height: 250px;
-    margin-bottom: 10px;
-    border-radius: 15px;
-    background-image: url(gambar/img8.jpg);
-}
-
-.box4{
-    height: 50px;
-}
-
-.text3{
-    margin-top: 70px;
+.teks2{
+   opacity: 32%;
 }
