@@ -2,10 +2,10 @@
     margin-left: 740px;   
 }
 .box{
-    height: 200px;
+    height: 150px;
 }
 .text1{
-    padding-top: 40px;
+    padding-top: 25px;
     font-family: 'Courier New', Courier, monospace;
 }
 .box1{
@@ -17,4 +17,8 @@
 }
 .teks2{
    opacity: 32%;
+}
+
+.box3{
+    height:200px;
 }
